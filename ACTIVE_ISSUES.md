@@ -54,8 +54,8 @@ If you are working on something, please add your GitHub username under **Owner**
 - **Skills:** CSS, React, Responsive
 
 ### ⏳ Add Loading Skeletons
-- **Owner:** —
-- **Status:** Open
+- **Owner:** vinayarekha
+- **Status:** In progress
 - **Description:** Replace loading spinners with skeleton screens for better performance perception.
 - **Difficulty:** Beginner Friendly
 - **Skills:** React, CSS, UX
